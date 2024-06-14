@@ -2,6 +2,7 @@
 body{
     background-image: url(BG.png);
     min-width: 1895px; 
+    max-width: 1895px;
     margin: 0 auto;
 }
 .container1{background: #132547; max-width: 1920px; width: 100%; height: 92px; position: fixed; top: 0; overflow: hidden; z-index: 100;}
