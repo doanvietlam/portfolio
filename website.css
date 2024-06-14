@@ -1,0 +1,132 @@
+
+body{
+    background-image: url(BG.png);
+    max-width: 1895px; 
+    margin: 0 auto;
+}
+.container1{background: #132547; max-width: 1920px; width: 100%; height: 92px; position: fixed; top: 0; overflow: hidden; z-index: 100;}
+.logo{width: 100%; max-width: 200px; margin-top: 25px;}
+.menu a{font-family: inter; color: white; text-decoration: none;}
+.menu{margin-top: 35px; display: flex; justify-content: space-evenly; font-size: 14px; font-weight: 500;}
+.background1{margin: auto;width: 100%; max-width: 1920px; display: flex;}
+.aboutin:hover{color: #F9AC66;}
+.workin:hover{color: #F9AC66;}
+.resumein:hover{color: #F9AC66;}
+
+.contact{background-color: #FEBF86; color: #132547; width: 120px; font-family: inter; font-size: 14px; text-align: center; font-weight: 600;}
+.contact:hover{background-color: #F9AC66}
+.text2{font-family: inter; line-height: 24px; margin-top: 330px;}
+.text2 h6{font-size: 24px; color: #FFFFFF; opacity: 70%; font-weight: normal;}
+.text2 h1{font-size: 60px; color: #FEBF86; font-weight: medium;}
+.text2 p{font-size: 14px; color: white; font-weight: normal;}
+.text2 b{font-size: 14px; color: #FEBF86;}
+.lam{position: absolute; margin-left: 980px; margin-top:145px;}
+.lam img{width: 703px; height: 703px; object-fit: cover; object-position: center;}
+.seemywork{color: #FEBF86; border-color: #FEBF86; font-family: inter; font-size: 14px; text-align: center; font-weight: 600; display: flex; margin-top: -35px; margin-left: 140px;}
+.seemywork:hover{background-color: #F9AC66;}
+
+.container3{margin-top: 300px; display: flex; padding-top:px;}
+.project{margin: auto}
+.project img{max-width: 100% ; height: auto; float: left; padding: 4px 4px 4px;}
+.anh1{width: 514px;}
+.anh1:hover{
+    content: url(Gobrew\ Coffee\ -\ hover.png);
+}
+.anh2{width: 680px}
+.anh2:hover{
+    content: url(Phep\ -\ hover.png);
+}
+.anh3{width: 350px;}
+.anh3:hover{
+    content: url(Happiness\ Centre\ -\ hover.png);
+}
+.anh4{width: 470px;}
+.anh4:hover{
+    content: url(Ryan\ -\ hover.png);
+}
+.anh5{width: 275px;}
+.anh5:hover{
+    content: url(Poster\ -\ hover.png);
+}
+.anh6{width: 280px;}
+.anh6:hover{
+    content: url(AE\ -\ hover.png);
+}
+.work{width: 50px; overflow: hidden; object-position: -5px;}
+
+.container4{margin-top: 100px; display: flex; font-family: inter;}
+.bento img{width: 1530px; position: relative;}
+.resume{max-width: 100%; overflow: hidden; object-position: -5px; width: 50px; height: auto;}
+.education h1{color: white;}
+.year{color: white; opacity: 50%; font-size: 14px;}
+.school{line-height: 8px;}
+.school h6{color:#FEBF86; font-size: 20px;}
+.school p{color: white; font-size: 14px;}
+.year1{display: inline-block; padding-top: 2px;}
+.year2{display: inline-block; padding-top: 43px;}
+
+.bento{font-family: inter;}
+.education{padding:40px; padding-top: 40px; background-color: #122845; width: 495px; height: 304px; border-radius: 24px; display: inline-block;}
+.education h1{font-size: 36px;}
+.education1{padding-bottom: 24px;}
+.school2{padding-top: 24px;}
+.language{padding: 40px; padding-top: 40px; background-color: #122845; width: 495px; height: 254px; border-radius: 24px; display: inline-block; margin-top: 44px;}
+.language h1{color: white; font-size: 36px;}
+.language h6{color: #FEBF86; font-size: 20px;}
+.language p{color: white; font-size: 14px; line-height: 8px;}
+.lang{padding-bottom: 24px;}
+
+.experience{padding:40px; padding-top: 40px; background-color: #122845; width: 495px; height: 600px; border-radius: 24px; display: inline-block; font-family: inter;}
+.experience h1{font-size: 36px; color: white;}
+.experience h6{color: #FEBF86; font-size: 20px;}
+.experience p{color: white; font-size: 14px; line-height: 8px;}
+.year3{opacity: 50%; padding-top: 10px;}
+.sub{opacity: 50%;}
+.exp{padding-bottom: 24px;}
+.group2{padding-top: 24px;}
+.group3{padding-top: 24px;}
+.group4{padding-top: 24px;}
+.middle{column-gap: 24px;}
+.subyear{padding-top: 80px;}
+
+.expt{padding:40px; padding-top: 40px; background-color: #122845; width: 495px; height: 359px; border-radius: 24px; display: inline-block; font-family: inter;}
+.expt h1{color: white; font-size: 36px;}
+.expt h6{color: #FEBF86; font-size: 20px;}
+.expt p{color: white; font-size: 14px; line-height: 8px;}
+.adobe{max-width: 70%; width: 10px; height: auto;}
+.box1{width: 86px; height: 29px; border: 1px solid #FEBF86; align-items: center; border-radius: 4px; justify-content: center; display: flex; margin-top: 24px;padding-top: 8px;}
+.expt h5{color: #FEBF86; font-size: 14px; font-weight: 400;}
+
+.box2{width: 105px; height: 29px; border: 1px solid #FEBF86; align-items: center; border-radius: 4px; justify-content: center; display: flex; margin-top: 24px;padding-top: 8px; margin-left: 100px;}
+
+.box3{width: 105px; height: 29px; border: 1px solid #FEBF86; align-items: center; border-radius: 4px; justify-content: center; display: flex; margin-top: 24px;padding-top: 8px; margin-top: 10px;}
+
+.box4{width: 105px; height: 29px; border: 1px solid #FEBF86; align-items: center; border-radius: 4px; justify-content: center; display: flex; margin-top: 24px;padding-top: 8px; margin-left: 15px; margin-top: 10px;}
+.ulti{float: left;}
+.left{margin-top: 24px;}
+
+.hobby{padding:40px; padding-top: 40px; background-color: #122845; width: 495px; height: 199px; border-radius: 24px; display: inline-block; font-family: inter; margin-top: 40px;}
+.hobby h1{color: white; font-size: 36px; display: flex;}
+.hobby img{max-width: 8%;}
+.mic{float: left; margin-left: 100px;}
+.dog{float: left; margin-left: 72px;}
+.paint{float: left; margin-top: 8px;}
+.textimg{display: flex; color: white; font-family: inter;}
+.beatboxx{margin-left: 60px;}
+.dogg{margin-left: 60px;}
+.imgul{margin-left: 25px; margin-top: 20px;}
+.contact1{padding:40px; padding-top: 40px; background-color: #FEBF86; width: 495px; height: 179px; border-radius: 24px; display: inline-block; font-family: inter; margin-top: 40px;}
+.hobby h1{color: white; font-size: 36px; display: flex;}
+.contactimg img{max-width: 30px; float: left;}
+.contactimg p{float: left; padding-left: 8px; font-size: 14px; padding-top: 5px; font-weight: 600;}
+.email1 img{margin-left: 40px;}
+.contactimg{padding-top: 24px;}
+.quote{padding:40px; padding-top: 40px; background-color: #122845; width: 1030px; height: 179px; border-radius: 24px; display: inline-block; margin-top: 36px; color: white; font-size: 36px; font-family: inter;}
+.container4{margin-bottom: 40px;}
+.contact1 h1{font-size: 36px; font-weight: 600;}
+
+
+html{scroll-behavior: smooth; scroll-snap-type: y mandatory; scroll-padding-top: 150px;}
+.project img:hover{cursor: pointer; object-fit: cover;}
+.contactbutton{text-decoration: none;}
+.workbutton{text-decoration: none;}
